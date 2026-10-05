@@ -1,0 +1,20 @@
+{
+    "baseline_cnn": {
+        "test_accuracy": 0.8727,
+        "macro_precision": 0.841,
+        "macro_recall": 0.8297,
+        "macro_f1": 0.8303
+    },
+    "mobilenetv2": {
+        "test_accuracy": 0.9255,
+        "macro_precision": 0.9051,
+        "macro_recall": 0.9148,
+        "macro_f1": 0.9082
+    },
+    "mobilenetv2_finetuned": {
+        "test_accuracy": 0.9588712098468928,
+        "macro_precision": 0.9488178853273589,
+        "macro_recall": 0.9417419141696882,
+        "macro_f1": 0.9434649636737652
+    }
+}

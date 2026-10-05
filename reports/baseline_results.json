@@ -1,0 +1,11 @@
+{
+    "model": "Baseline CNN",
+    "test_images": 3331,
+    "test_accuracy": 0.8727108976283399,
+    "macro_precision": 0.8409712981323769,
+    "macro_recall": 0.8297095117260167,
+    "macro_f1": 0.8302698863828251,
+    "best_validation_loss": 0.4515039026737213,
+    "final_training_accuracy": 0.8310068249702454,
+    "final_validation_accuracy": 0.8290030360221863
+}

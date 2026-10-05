@@ -1,0 +1,45 @@
+﻿# Datasets - never upload datasets to GitHub
+/data/raw/
+/data/train/
+/data/val/
+/data/test/
+/data/real_world/
+/PlantDoc-Dataset/
+
+# Keep empty dataset folders
+!/data/train/.gitkeep
+!/data/val/.gitkeep
+!/data/test/.gitkeep
+
+# Trained models - keep out of Git
+/models/*
+!/models/.gitkeep
+
+# Python virtual environments
+.venv/
+.venv-1/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment variables / secrets
+.env
+.env.*
+!.env.example
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db

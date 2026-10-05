@@ -1,0 +1,198 @@
+{
+  "_comment": "Advisory for the 15 crop-disease classes used by Agro Care AI. Treatment information is general guidance and should be verified with a local agriculture officer before application.",
+
+  "Corn___Cercospora_leaf_spot Gray_leaf_spot": {
+    "en": {
+      "about": "Gray leaf spot is a fungal disease of maize that produces gray to tan rectangular or elongated lesions on leaves. Severe infection can reduce healthy leaf area and affect grain development.",
+      "treatment": "Remove and destroy infected crop residues. Improve field sanitation and avoid continuous maize cultivation. If disease pressure is high, use a locally recommended fungicide according to the current agricultural advisory and label.",
+      "prevention": "Use tolerant varieties where available, rotate maize with non-host crops, manage crop residues, and maintain good field sanitation."
+    },
+    "kn": {
+      "about": "ಗ್ರೇ ಲೀಫ್ ಸ್ಪಾಟ್ ಮೆಕ್ಕೆಜೋಳದ ಶಿಲೀಂಧ್ರ ರೋಗವಾಗಿದ್ದು, ಎಲೆಗಳಲ್ಲಿ ಬೂದು ಅಥವಾ ಕಂದು ಬಣ್ಣದ ಉದ್ದವಾದ ಕಲೆಗಳು ಕಾಣಿಸಿಕೊಳ್ಳುತ್ತವೆ. ತೀವ್ರ ಸೋಂಕಿನಿಂದ ಹಸಿರು ಎಲೆಗಳ ಪ್ರದೇಶ ಕಡಿಮೆಯಾಗಿ ಧಾನ್ಯ ಉತ್ಪಾದನೆಗೆ ಪರಿಣಾಮವಾಗಬಹುದು.",
+      "treatment": "ಸೋಂಕಿತ ಬೆಳೆ ಅವಶೇಷಗಳನ್ನು ತೆಗೆದು ನಾಶಪಡಿಸಿ. ಹೊಲದ ಸ್ವಚ್ಛತೆಯನ್ನು ಕಾಪಾಡಿ ಮತ್ತು ನಿರಂತರವಾಗಿ ಮೆಕ್ಕೆಜೋಳ ಬೆಳೆಯುವುದನ್ನು ತಪ್ಪಿಸಿ. ರೋಗದ ತೀವ್ರತೆ ಹೆಚ್ಚಿದ್ದರೆ ಸ್ಥಳೀಯ ಕೃಷಿ ಅಧಿಕಾರಿಯ ಸಲಹೆಯಂತೆ ಮತ್ತು ಉತ್ಪನ್ನದ ಲೇಬಲ್ ಸೂಚನೆಯಂತೆ ಶಿಫಾರಸು ಮಾಡಿದ ಶಿಲೀಂಧ್ರನಾಶಕವನ್ನು ಬಳಸಿ.",
+      "prevention": "ಲಭ್ಯವಿದ್ದಲ್ಲಿ ಸಹಿಷ್ಣು ತಳಿಗಳನ್ನು ಬಳಸಿ, ಮೆಕ್ಕೆಜೋಳವನ್ನು ಬೇರೆ ಬೆಳೆಗಳೊಂದಿಗೆ ಪರ್ಯಾಯವಾಗಿ ಬೆಳೆಯಿರಿ, ಬೆಳೆ ಅವಶೇಷಗಳನ್ನು ಸರಿಯಾಗಿ ನಿರ್ವಹಿಸಿ ಮತ್ತು ಹೊಲದ ಸ್ವಚ್ಛತೆಯನ್ನು ಕಾಪಾಡಿ."
+    }
+  },
+
+  "Corn___Common_rust": {
+    "en": {
+      "about": "Common rust is a fungal disease of maize that produces small reddish-brown to cinnamon-colored powdery pustules on the leaves.",
+      "treatment": "Remove heavily infected plant material and alternate weed hosts where applicable. When disease develops early or becomes severe, use a locally recommended fungicide according to the agricultural advisory and product label.",
+      "prevention": "Use healthy seed, grow suitable or tolerant varieties, maintain field sanitation, and monitor the crop regularly for rust pustules."
+    },
+    "kn": {
+      "about": "ಕಾಮನ್ ರಸ್ಟ್ ಮೆಕ್ಕೆಜೋಳದ ಶಿಲೀಂಧ್ರ ರೋಗವಾಗಿದ್ದು, ಎಲೆಗಳ ಮೇಲೆ ಸಣ್ಣ ಕೆಂಪು-ಕಂದು ಅಥವಾ ದಾಲ್ಚಿನ್ನಿ ಬಣ್ಣದ ಪುಡಿ ರೀತಿಯ ಗುಳ್ಳೆಗಳು ಕಾಣಿಸುತ್ತವೆ.",
+      "treatment": "ತೀವ್ರವಾಗಿ ಸೋಂಕಿತ ಸಸ್ಯ ಭಾಗಗಳನ್ನು ತೆಗೆದು ನಾಶಪಡಿಸಿ ಮತ್ತು ಸಾಧ್ಯವಾದಲ್ಲಿ ಪರ್ಯಾಯ ಆಶ್ರಯ ಕಳೆಗಳನ್ನು ನಿಯಂತ್ರಿಸಿ. ರೋಗವು ಆರಂಭಿಕ ಹಂತದಲ್ಲೇ ಕಂಡುಬಂದರೆ ಅಥವಾ ತೀವ್ರವಾದರೆ ಸ್ಥಳೀಯ ಕೃಷಿ ಸಲಹೆಯಂತೆ ಶಿಫಾರಸು ಮಾಡಿದ ಶಿಲೀಂಧ್ರನಾಶಕವನ್ನು ಬಳಸಿ.",
+      "prevention": "ಉತ್ತಮ ಗುಣಮಟ್ಟದ ಬೀಜವನ್ನು ಬಳಸಿ, ಸೂಕ್ತ ಅಥವಾ ಸಹಿಷ್ಣು ತಳಿಗಳನ್ನು ಬೆಳೆಸಿ, ಹೊಲದ ಸ್ವಚ್ಛತೆಯನ್ನು ಕಾಪಾಡಿ ಮತ್ತು ರಸ್ಟ್ ಲಕ್ಷಣಗಳಿಗಾಗಿ ನಿಯಮಿತವಾಗಿ ಬೆಳೆ ಪರಿಶೀಲಿಸಿ."
+    }
+  },
+
+  "Corn___Northern_Leaf_Blight": {
+    "en": {
+      "about": "Northern leaf blight is a fungal disease of maize that causes long, cigar-shaped gray-green to tan lesions on leaves.",
+      "treatment": "Remove and properly manage infected maize residues. If disease pressure is high, use a locally recommended fungicide according to the current agricultural advisory and label.",
+      "prevention": "Use tolerant varieties where available, rotate crops, destroy or properly incorporate infected residues, and monitor the crop during cool and humid conditions."
+    },
+    "kn": {
+      "about": "ನಾರ್ದರ್ನ್ ಲೀಫ್ ಬ್ಲೈಟ್ ಮೆಕ್ಕೆಜೋಳದ ಶಿಲೀಂಧ್ರ ರೋಗವಾಗಿದ್ದು, ಎಲೆಗಳ ಮೇಲೆ ಉದ್ದವಾದ ಸಿಗಾರ್ ಆಕಾರದ ಬೂದು-ಹಸಿರು ಅಥವಾ ಕಂದು ಬಣ್ಣದ ಕಲೆಗಳು ಕಾಣಿಸುತ್ತವೆ.",
+      "treatment": "ಸೋಂಕಿತ ಮೆಕ್ಕೆಜೋಳದ ಬೆಳೆ ಅವಶೇಷಗಳನ್ನು ತೆಗೆದು ಸರಿಯಾಗಿ ನಿರ್ವಹಿಸಿ. ರೋಗದ ತೀವ್ರತೆ ಹೆಚ್ಚಿದ್ದರೆ ಸ್ಥಳೀಯ ಕೃಷಿ ಸಲಹೆಯಂತೆ ಶಿಫಾರಸು ಮಾಡಿದ ಶಿಲೀಂಧ್ರನಾಶಕವನ್ನು ಬಳಸಿ.",
+      "prevention": "ಲಭ್ಯವಿದ್ದಲ್ಲಿ ಸಹಿಷ್ಣು ತಳಿಗಳನ್ನು ಬಳಸಿ, ಬೆಳೆ ಪರ್ಯಾಯ ಪದ್ಧತಿ ಅನುಸರಿಸಿ, ಸೋಂಕಿತ ಅವಶೇಷಗಳನ್ನು ನಾಶಪಡಿಸಿ ಅಥವಾ ಸರಿಯಾಗಿ ಮಣ್ಣಿನಲ್ಲಿ ಸೇರಿಸಿ ಮತ್ತು ತಂಪಾದ ಆರ್ದ್ರ ವಾತಾವರಣದಲ್ಲಿ ಬೆಳೆ ಪರಿಶೀಲಿಸಿ."
+    }
+  },
+
+  "Corn___healthy": {
+    "en": {
+      "about": "No visible disease symptoms were detected for the healthy maize class.",
+      "treatment": "No disease treatment is indicated. Continue regular crop monitoring.",
+      "prevention": "Use healthy seed, maintain field sanitation, provide balanced crop nutrition, and regularly inspect leaves for early disease symptoms."
+    },
+    "kn": {
+      "about": "ಆರೋಗ್ಯಕರ ಮೆಕ್ಕೆಜೋಳದ ಎಲೆಗಳಲ್ಲಿ ಗಮನಾರ್ಹ ರೋಗ ಲಕ್ಷಣಗಳು ಕಂಡುಬಂದಿಲ್ಲ.",
+      "treatment": "ರೋಗದ ಚಿಕಿತ್ಸೆಯ ಅಗತ್ಯವಿಲ್ಲ. ಬೆಳೆಯನ್ನು ನಿಯಮಿತವಾಗಿ ಪರಿಶೀಲಿಸುತ್ತಿರಿ.",
+      "prevention": "ಉತ್ತಮ ಗುಣಮಟ್ಟದ ಬೀಜ ಬಳಸಿ, ಹೊಲದ ಸ್ವಚ್ಛತೆ ಕಾಪಾಡಿ, ಸಮತೋಲನ ಪೋಷಕಾಂಶ ಒದಗಿಸಿ ಮತ್ತು ರೋಗದ ಆರಂಭಿಕ ಲಕ್ಷಣಗಳಿಗಾಗಿ ಎಲೆಗಳನ್ನು ನಿಯಮಿತವಾಗಿ ಪರಿಶೀಲಿಸಿ."
+    }
+  },
+
+  "Potato___Early_blight": {
+    "en": {
+      "about": "Potato early blight is caused by Alternaria solani and commonly produces dark brown to black spots with concentric rings on leaves.",
+      "treatment": "Remove and destroy infected plant debris. Use disease-free seed tubers. If disease pressure is high, use a locally recommended fungicide according to the current agricultural advisory and product label.",
+      "prevention": "Use disease-free seed tubers, maintain good crop nutrition, remove infected debris, and follow crop rotation."
+    },
+    "kn": {
+      "about": "ಆಲೂಗಡ್ಡೆಯ ಅರ್ಲಿ ಬ್ಲೈಟ್ ರೋಗವು Alternaria solani ಶಿಲೀಂಧ್ರದಿಂದ ಉಂಟಾಗುತ್ತದೆ. ಎಲೆಗಳಲ್ಲಿ ಕಪ್ಪು ಅಥವಾ ಕಂದು ಬಣ್ಣದ ವೃತ್ತಾಕಾರದ ಪದರಗಳಿರುವ ಕಲೆಗಳು ಸಾಮಾನ್ಯವಾಗಿ ಕಾಣಿಸುತ್ತವೆ.",
+      "treatment": "ಸೋಂಕಿತ ಸಸ್ಯ ಅವಶೇಷಗಳನ್ನು ತೆಗೆದು ನಾಶಪಡಿಸಿ. ರೋಗರಹಿತ ಬೀಜ ಆಲೂಗಡ್ಡೆಗಳನ್ನು ಬಳಸಿ. ರೋಗದ ತೀವ್ರತೆ ಹೆಚ್ಚಿದ್ದರೆ ಸ್ಥಳೀಯ ಕೃಷಿ ಸಲಹೆಯಂತೆ ಶಿಫಾರಸು ಮಾಡಿದ ಶಿಲೀಂಧ್ರನಾಶಕವನ್ನು ಬಳಸಿ.",
+      "prevention": "ರೋಗರಹಿತ ಬೀಜ ಆಲೂಗಡ್ಡೆ ಬಳಸಿ, ಉತ್ತಮ ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ ಮಾಡಿ, ಸೋಂಕಿತ ಅವಶೇಷಗಳನ್ನು ತೆಗೆದುಹಾಕಿ ಮತ್ತು ಬೆಳೆ ಪರ್ಯಾಯ ಪದ್ಧತಿ ಅನುಸರಿಸಿ."
+    }
+  },
+
+  "Potato___Late_blight": {
+    "en": {
+      "about": "Potato late blight is caused by Phytophthora infestans. Water-soaked spots can develop on leaves and later become brown or black, with disease also affecting stems and tubers.",
+      "treatment": "Ensure good drainage and monitor the crop during cool, humid and wet weather. Use a locally recommended protective fungicide when conditions favor disease development and follow the product label.",
+      "prevention": "Use healthy seed tubers, avoid planting visibly infected tubers, maintain field sanitation, avoid tuber injury during harvest, and remove infected crop material."
+    },
+    "kn": {
+      "about": "ಆಲೂಗಡ್ಡೆಯ ಲೇಟ್ ಬ್ಲೈಟ್ ರೋಗವು Phytophthora infestans ನಿಂದ ಉಂಟಾಗುತ್ತದೆ. ಎಲೆಗಳಲ್ಲಿ ನೀರಿನಂಥ ಕಲೆಗಳು ಕಾಣಿಸಿಕೊಂಡು ನಂತರ ಕಂದು ಅಥವಾ ಕಪ್ಪು ಬಣ್ಣಕ್ಕೆ ತಿರುಗಬಹುದು. ಕಾಂಡ ಮತ್ತು ಗೆಡ್ಡೆಗಳಿಗೂ ರೋಗ ಹರಡಬಹುದು.",
+      "treatment": "ಹೊಲದಲ್ಲಿ ಉತ್ತಮ ನೀರು ಹರಿವು ಇರಲಿ ಮತ್ತು ತಂಪಾದ, ಆರ್ದ್ರ ಹಾಗೂ ಮಳೆಯ ವಾತಾವರಣದಲ್ಲಿ ಬೆಳೆ ಪರಿಶೀಲಿಸಿ. ರೋಗಕ್ಕೆ ಅನುಕೂಲಕರ ಪರಿಸ್ಥಿತಿ ಇದ್ದಾಗ ಸ್ಥಳೀಯ ಕೃಷಿ ಸಲಹೆಯಂತೆ ಶಿಫಾರಸು ಮಾಡಿದ ರಕ್ಷಣಾತ್ಮಕ ಶಿಲೀಂಧ್ರನಾಶಕವನ್ನು ಬಳಸಿ.",
+      "prevention": "ಆರೋಗ್ಯಕರ ಬೀಜ ಗೆಡ್ಡೆಗಳನ್ನು ಬಳಸಿ, ಸೋಂಕಿತ ಗೆಡ್ಡೆಗಳನ್ನು ನೆಡಬೇಡಿ, ಹೊಲದ ಸ್ವಚ್ಛತೆ ಕಾಪಾಡಿ, ಕೊಯ್ಲಿನ ಸಮಯದಲ್ಲಿ ಗೆಡ್ಡೆಗಳಿಗೆ ಗಾಯವಾಗದಂತೆ ನೋಡಿಕೊಳ್ಳಿ ಮತ್ತು ಸೋಂಕಿತ ಸಸ್ಯ ಭಾಗಗಳನ್ನು ತೆಗೆದುಹಾಕಿ."
+    }
+  },
+
+  "Potato___healthy": {
+    "en": {
+      "about": "No visible disease symptoms were detected for the healthy potato class.",
+      "treatment": "No disease treatment is indicated. Continue regular crop monitoring.",
+      "prevention": "Use healthy seed tubers, maintain good drainage and field sanitation, and inspect plants regularly."
+    },
+    "kn": {
+      "about": "ಆರೋಗ್ಯಕರ ಆಲೂಗಡ್ಡೆ ಎಲೆಗಳಲ್ಲಿ ಗಮನಾರ್ಹ ರೋಗ ಲಕ್ಷಣಗಳು ಕಂಡುಬಂದಿಲ್ಲ.",
+      "treatment": "ರೋಗದ ಚಿಕಿತ್ಸೆಯ ಅಗತ್ಯವಿಲ್ಲ. ಬೆಳೆಯನ್ನು ನಿಯಮಿತವಾಗಿ ಪರಿಶೀಲಿಸುತ್ತಿರಿ.",
+      "prevention": "ಆರೋಗ್ಯಕರ ಬೀಜ ಗೆಡ್ಡೆಗಳನ್ನು ಬಳಸಿ, ಉತ್ತಮ ನೀರು ಹರಿವು ಮತ್ತು ಹೊಲದ ಸ್ವಚ್ಛತೆಯನ್ನು ಕಾಪಾಡಿ ಮತ್ತು ಸಸ್ಯಗಳನ್ನು ನಿಯಮಿತವಾಗಿ ಪರಿಶೀಲಿಸಿ."
+    }
+  },
+
+  "Tomato___Bacterial_spot": {
+    "en": {
+      "about": "Tomato bacterial spot causes small brown or water-soaked spots, often with yellow halos, on leaves and can also affect green fruits.",
+      "treatment": "Remove infected plant material and maintain field sanitation. Use disease-free seed and follow locally recommended bacterial-disease management practices.",
+      "prevention": "Use disease-free seed, avoid working with wet plants, reduce rain splash where possible, remove infected debris, and maintain good field sanitation."
+    },
+    "kn": {
+      "about": "ಟೊಮೇಟೊ ಬ್ಯಾಕ್ಟೀರಿಯಲ್ ಸ್ಪಾಟ್ ರೋಗದಲ್ಲಿ ಎಲೆಗಳ ಮೇಲೆ ಸಣ್ಣ ಕಂದು ಅಥವಾ ನೀರಿನಂಥ ಕಲೆಗಳು ಮತ್ತು ಕೆಲವೊಮ್ಮೆ ಹಳದಿ ವಲಯ ಕಾಣಿಸುತ್ತವೆ. ಹಸಿರು ಹಣ್ಣುಗಳಿಗೂ ರೋಗ ತಗುಲಬಹುದು.",
+      "treatment": "ಸೋಂಕಿತ ಸಸ್ಯ ಭಾಗಗಳನ್ನು ತೆಗೆದುಹಾಕಿ ಮತ್ತು ಹೊಲದ ಸ್ವಚ್ಛತೆಯನ್ನು ಕಾಪಾಡಿ. ರೋಗರಹಿತ ಬೀಜ ಬಳಸಿ ಮತ್ತು ಸ್ಥಳೀಯವಾಗಿ ಶಿಫಾರಸು ಮಾಡಿದ ಬ್ಯಾಕ್ಟೀರಿಯಾ ರೋಗ ನಿರ್ವಹಣಾ ಕ್ರಮಗಳನ್ನು ಅನುಸರಿಸಿ.",
+      "prevention": "ರೋಗರಹಿತ ಬೀಜ ಬಳಸಿ, ಸಸ್ಯಗಳು ಒದ್ದೆಯಾಗಿರುವಾಗ ಹೊಲದಲ್ಲಿ ಕೆಲಸ ಮಾಡುವುದನ್ನು ತಪ್ಪಿಸಿ, ಮಳೆ ನೀರಿನ ಚಿಮ್ಮುವಿಕೆಯನ್ನು ಸಾಧ್ಯವಾದಷ್ಟು ಕಡಿಮೆ ಮಾಡಿ ಮತ್ತು ಸೋಂಕಿತ ಅವಶೇಷಗಳನ್ನು ತೆಗೆದುಹಾಕಿ."
+    }
+  },
+
+  "Tomato___Early_blight": {
+    "en": {
+      "about": "Tomato early blight is caused by Alternaria solani. It commonly produces brown spots with concentric rings and yellowing around the affected area.",
+      "treatment": "Remove and destroy infected plant debris and use disease-free seed. If disease pressure is high, use a locally recommended fungicide according to the current agricultural advisory and label.",
+      "prevention": "Follow crop rotation, remove crop debris, use healthy seed, avoid prolonged leaf wetness, and maintain good field sanitation."
+    },
+    "kn": {
+      "about": "ಟೊಮೇಟೊ ಅರ್ಲಿ ಬ್ಲೈಟ್ ರೋಗವು Alternaria solani ಶಿಲೀಂಧ್ರದಿಂದ ಉಂಟಾಗುತ್ತದೆ. ಎಲೆಗಳಲ್ಲಿ ವೃತ್ತಾಕಾರದ ಪದರಗಳಿರುವ ಕಂದು ಕಲೆಗಳು ಮತ್ತು ಅವುಗಳ ಸುತ್ತ ಹಳದಿ ಬಣ್ಣ ಕಾಣಿಸಬಹುದು.",
+      "treatment": "ಸೋಂಕಿತ ಸಸ್ಯ ಅವಶೇಷಗಳನ್ನು ತೆಗೆದು ನಾಶಪಡಿಸಿ ಮತ್ತು ರೋಗರಹಿತ ಬೀಜ ಬಳಸಿ. ರೋಗದ ತೀವ್ರತೆ ಹೆಚ್ಚಿದ್ದರೆ ಸ್ಥಳೀಯ ಕೃಷಿ ಸಲಹೆಯಂತೆ ಶಿಫಾರಸು ಮಾಡಿದ ಶಿಲೀಂಧ್ರನಾಶಕವನ್ನು ಬಳಸಿ.",
+      "prevention": "ಬೆಳೆ ಪರ್ಯಾಯ ಪದ್ಧತಿ ಅನುಸರಿಸಿ, ಬೆಳೆ ಅವಶೇಷಗಳನ್ನು ತೆಗೆದುಹಾಕಿ, ಆರೋಗ್ಯಕರ ಬೀಜ ಬಳಸಿ, ಎಲೆಗಳು ಹೆಚ್ಚು ಸಮಯ ಒದ್ದೆಯಾಗಿರುವುದನ್ನು ತಪ್ಪಿಸಿ ಮತ್ತು ಹೊಲದ ಸ್ವಚ್ಛತೆ ಕಾಪಾಡಿ."
+    }
+  },
+
+  "Tomato___Late_blight": {
+    "en": {
+      "about": "Tomato late blight is caused by Phytophthora infestans. It produces water-soaked dark lesions on leaves and stems and can cause dark lesions and decay on fruits.",
+      "treatment": "Maintain good drainage and monitor the crop during cool, wet and humid weather. Use a locally recommended fungicide when disease risk is high and follow the product label.",
+      "prevention": "Remove infected plant debris, improve air circulation, avoid prolonged leaf wetness, maintain field sanitation, and follow crop rotation."
+    },
+    "kn": {
+      "about": "ಟೊಮೇಟೊ ಲೇಟ್ ಬ್ಲೈಟ್ ರೋಗವು Phytophthora infestans ನಿಂದ ಉಂಟಾಗುತ್ತದೆ. ಎಲೆ ಮತ್ತು ಕಾಂಡಗಳಲ್ಲಿ ನೀರಿನಂಥ ಕಪ್ಪು ಕಲೆಗಳು ಕಾಣಿಸಿಕೊಳ್ಳುತ್ತವೆ ಮತ್ತು ಹಣ್ಣುಗಳಲ್ಲಿಯೂ ಕಪ್ಪು ಕಲೆ ಹಾಗೂ ಕೊಳೆ ಉಂಟಾಗಬಹುದು.",
+      "treatment": "ಉತ್ತಮ ನೀರು ಹರಿವು ಇರಲಿ ಮತ್ತು ತಂಪಾದ, ಮಳೆಯ ಹಾಗೂ ಆರ್ದ್ರ ವಾತಾವರಣದಲ್ಲಿ ಬೆಳೆ ಪರಿಶೀಲಿಸಿ. ರೋಗದ ಅಪಾಯ ಹೆಚ್ಚಿದ್ದರೆ ಸ್ಥಳೀಯ ಕೃಷಿ ಸಲಹೆಯಂತೆ ಶಿಫಾರಸು ಮಾಡಿದ ಶಿಲೀಂಧ್ರನಾಶಕವನ್ನು ಬಳಸಿ.",
+      "prevention": "ಸೋಂಕಿತ ಸಸ್ಯ ಅವಶೇಷಗಳನ್ನು ತೆಗೆದುಹಾಕಿ, ಗಾಳಿಯ ಸಂಚಾರ ಉತ್ತಮವಾಗಿರಲಿ, ಎಲೆಗಳು ಹೆಚ್ಚು ಸಮಯ ಒದ್ದೆಯಾಗಿರುವುದನ್ನು ತಪ್ಪಿಸಿ, ಹೊಲದ ಸ್ವಚ್ಛತೆ ಕಾಪಾಡಿ ಮತ್ತು ಬೆಳೆ ಪರ್ಯಾಯ ಪದ್ಧತಿ ಅನುಸರಿಸಿ."
+    }
+  },
+
+  "Tomato___Leaf_Mold": {
+    "en": {
+      "about": "Tomato leaf mold is a fungal disease that mainly affects leaves under humid conditions. Yellowish areas may appear on the upper leaf surface with mold growth on the underside.",
+      "treatment": "Remove severely infected leaves and improve air circulation around plants. Avoid prolonged leaf wetness and use a locally recommended fungicide if required.",
+      "prevention": "Provide adequate plant spacing, improve ventilation, avoid overhead irrigation when possible, remove infected leaves, and maintain field sanitation."
+    },
+    "kn": {
+      "about": "ಟೊಮೇಟೊ ಲೀಫ್ ಮೋಲ್ಡ್ ಒಂದು ಶಿಲೀಂಧ್ರ ರೋಗವಾಗಿದ್ದು, ಆರ್ದ್ರ ವಾತಾವರಣದಲ್ಲಿ ಮುಖ್ಯವಾಗಿ ಎಲೆಗಳಿಗೆ ತಗುಲುತ್ತದೆ. ಎಲೆಯ ಮೇಲ್ಭಾಗದಲ್ಲಿ ಹಳದಿ ಪ್ರದೇಶಗಳು ಮತ್ತು ಕೆಳಭಾಗದಲ್ಲಿ ಶಿಲೀಂಧ್ರದ ಬೆಳವಣಿಗೆ ಕಾಣಿಸಬಹುದು.",
+      "treatment": "ತೀವ್ರವಾಗಿ ಸೋಂಕಿತ ಎಲೆಗಳನ್ನು ತೆಗೆದುಹಾಕಿ ಮತ್ತು ಸಸ್ಯಗಳ ನಡುವೆ ಉತ್ತಮ ಗಾಳಿಯ ಸಂಚಾರ ಇರಲಿ. ಎಲೆಗಳು ಹೆಚ್ಚು ಸಮಯ ಒದ್ದೆಯಾಗಿರುವುದನ್ನು ತಪ್ಪಿಸಿ ಮತ್ತು ಅಗತ್ಯವಿದ್ದರೆ ಸ್ಥಳೀಯವಾಗಿ ಶಿಫಾರಸು ಮಾಡಿದ ಶಿಲೀಂಧ್ರನಾಶಕ ಬಳಸಿ.",
+      "prevention": "ಸಾಕಷ್ಟು ಸಸ್ಯ ಅಂತರ ಕಾಯ್ದುಕೊಳ್ಳಿ, ಗಾಳಿಯ ಸಂಚಾರ ಸುಧಾರಿಸಿ, ಸಾಧ್ಯವಾದಷ್ಟು ಮೇಲಿನಿಂದ ನೀರು ಹಾಕುವುದನ್ನು ತಪ್ಪಿಸಿ, ಸೋಂಕಿತ ಎಲೆಗಳನ್ನು ತೆಗೆದುಹಾಕಿ ಮತ್ತು ಹೊಲದ ಸ್ವಚ್ಛತೆ ಕಾಪಾಡಿ."
+    }
+  },
+
+  "Tomato___Septoria_leaf_spot": {
+    "en": {
+      "about": "Septoria leaf spot causes small round to irregular spots with gray centers and dark margins. Severe infection can cause extensive leaf blighting and defoliation.",
+      "treatment": "Remove and destroy affected plant parts and maintain field sanitation. Use healthy seed and follow locally recommended disease-management practices.",
+      "prevention": "Remove infected debris, avoid unnecessary leaf wetness, use healthy seed, improve air circulation, and practice crop rotation."
+    },
+    "kn": {
+      "about": "ಸೆಪ್ಟೋರಿಯಾ ಲೀಫ್ ಸ್ಪಾಟ್ ರೋಗದಲ್ಲಿ ಎಲೆಗಳ ಮೇಲೆ ಬೂದು ಮಧ್ಯಭಾಗ ಮತ್ತು ಕಪ್ಪು ಅಂಚು ಹೊಂದಿರುವ ಸಣ್ಣ ವೃತ್ತಾಕಾರದ ಅಥವಾ ಅಸಮ ಕಲೆಗಳು ಕಾಣಿಸುತ್ತವೆ. ತೀವ್ರ ಸೋಂಕಿನಿಂದ ಎಲೆಗಳು ಒಣಗಿ ಉದುರಬಹುದು.",
+      "treatment": "ಸೋಂಕಿತ ಸಸ್ಯ ಭಾಗಗಳನ್ನು ತೆಗೆದು ನಾಶಪಡಿಸಿ ಮತ್ತು ಹೊಲದ ಸ್ವಚ್ಛತೆಯನ್ನು ಕಾಪಾಡಿ. ಆರೋಗ್ಯಕರ ಬೀಜ ಬಳಸಿ ಮತ್ತು ಸ್ಥಳೀಯವಾಗಿ ಶಿಫಾರಸು ಮಾಡಿದ ರೋಗ ನಿರ್ವಹಣಾ ಕ್ರಮಗಳನ್ನು ಅನುಸರಿಸಿ.",
+      "prevention": "ಸೋಂಕಿತ ಅವಶೇಷಗಳನ್ನು ತೆಗೆದುಹಾಕಿ, ಎಲೆಗಳು ಅನಗತ್ಯವಾಗಿ ಒದ್ದೆಯಾಗುವುದನ್ನು ತಪ್ಪಿಸಿ, ಆರೋಗ್ಯಕರ ಬೀಜ ಬಳಸಿ, ಗಾಳಿಯ ಸಂಚಾರ ಸುಧಾರಿಸಿ ಮತ್ತು ಬೆಳೆ ಪರ್ಯಾಯ ಪದ್ಧತಿ ಅನುಸರಿಸಿ."
+    }
+  },
+
+  "Tomato___Target_Spot": {
+    "en": {
+      "about": "Tomato target spot is a fungal leaf-spot disease that can produce circular brown lesions, sometimes with concentric patterns, on leaves and other plant parts.",
+      "treatment": "Remove infected plant debris and improve air circulation. If disease pressure is high, use a locally recommended fungicide according to the current agricultural advisory and product label.",
+      "prevention": "Maintain field sanitation, avoid prolonged leaf wetness, provide adequate plant spacing, remove infected debris, and practice crop rotation."
+    },
+    "kn": {
+      "about": "ಟೊಮೇಟೊ ಟಾರ್ಗೆಟ್ ಸ್ಪಾಟ್ ಒಂದು ಶಿಲೀಂಧ್ರ ಎಲೆ ಕಲೆ ರೋಗವಾಗಿದ್ದು, ಎಲೆಗಳು ಮತ್ತು ಇತರ ಸಸ್ಯ ಭಾಗಗಳಲ್ಲಿ ವೃತ್ತಾಕಾರದ ಕಂದು ಕಲೆಗಳು ಮತ್ತು ಕೆಲವೊಮ್ಮೆ ವೃತ್ತಾಕಾರದ ಪದರಗಳು ಕಾಣಿಸಬಹುದು.",
+      "treatment": "ಸೋಂಕಿತ ಸಸ್ಯ ಅವಶೇಷಗಳನ್ನು ತೆಗೆದುಹಾಕಿ ಮತ್ತು ಗಾಳಿಯ ಸಂಚಾರ ಸುಧಾರಿಸಿ. ರೋಗದ ತೀವ್ರತೆ ಹೆಚ್ಚಿದ್ದರೆ ಸ್ಥಳೀಯ ಕೃಷಿ ಸಲಹೆಯಂತೆ ಶಿಫಾರಸು ಮಾಡಿದ ಶಿಲೀಂಧ್ರನಾಶಕವನ್ನು ಬಳಸಿ.",
+      "prevention": "ಹೊಲದ ಸ್ವಚ್ಛತೆ ಕಾಪಾಡಿ, ಎಲೆಗಳು ಹೆಚ್ಚು ಸಮಯ ಒದ್ದೆಯಾಗಿರುವುದನ್ನು ತಪ್ಪಿಸಿ, ಸೂಕ್ತ ಸಸ್ಯ ಅಂತರ ಕಾಯ್ದುಕೊಳ್ಳಿ, ಸೋಂಕಿತ ಅವಶೇಷಗಳನ್ನು ತೆಗೆದುಹಾಕಿ ಮತ್ತು ಬೆಳೆ ಪರ್ಯಾಯ ಪದ್ಧತಿ ಅನುಸರಿಸಿ."
+    }
+  },
+
+  "Tomato___Tomato_Yellow_Leaf_Curl_Virus": {
+    "en": {
+      "about": "Tomato yellow leaf curl virus causes curling, yellowing and distortion of young leaves and can stunt plant growth. The disease is commonly transmitted by whiteflies.",
+      "treatment": "Remove and destroy severely affected plants and manage whitefly populations. Use locally recommended vector-management practices rather than relying only on treatment after symptoms appear.",
+      "prevention": "Use healthy seedlings, remove infected plants and nearby weed hosts, monitor whiteflies, and use suitable physical or locally recommended vector-management measures."
+    },
+    "kn": {
+      "about": "ಟೊಮೇಟೊ ಯೆಲ್ಲೋ ಲೀಫ್ ಕರ್ಳ್ ವೈರಸ್ ರೋಗದಲ್ಲಿ ಹೊಸ ಎಲೆಗಳು ಮುದುರಿಕೊಳ್ಳುವುದು, ಹಳದಿಯಾಗುವುದು ಮತ್ತು ಆಕಾರ ಬದಲಾಗುವುದು ಕಂಡುಬರುತ್ತದೆ. ಸಸ್ಯದ ಬೆಳವಣಿಗೆ ಕುಂಠಿತವಾಗಬಹುದು. ಈ ರೋಗವು ಸಾಮಾನ್ಯವಾಗಿ ವೈಟ್‌ಫ್ಲೈ ಮೂಲಕ ಹರಡುತ್ತದೆ.",
+      "treatment": "ತೀವ್ರವಾಗಿ ಸೋಂಕಿತ ಸಸ್ಯಗಳನ್ನು ತೆಗೆದು ನಾಶಪಡಿಸಿ ಮತ್ತು ವೈಟ್‌ಫ್ಲೈ ಸಂಖ್ಯೆಯನ್ನು ನಿಯಂತ್ರಿಸಿ. ಲಕ್ಷಣಗಳು ಕಾಣಿಸಿಕೊಂಡ ನಂತರ ಮಾತ್ರ ಚಿಕಿತ್ಸೆ ನೀಡುವುದಕ್ಕಿಂತ ಸ್ಥಳೀಯವಾಗಿ ಶಿಫಾರಸು ಮಾಡಿದ ವಾಹಕ ನಿಯಂತ್ರಣ ಕ್ರಮಗಳನ್ನು ಅನುಸರಿಸಿ.",
+      "prevention": "ಆರೋಗ್ಯಕರ ಸಸಿಗಳನ್ನು ಬಳಸಿ, ಸೋಂಕಿತ ಸಸ್ಯಗಳು ಮತ್ತು ಸಮೀಪದ ಕಳೆ ಆಶ್ರಯಗಳನ್ನು ತೆಗೆದುಹಾಕಿ, ವೈಟ್‌ಫ್ಲೈಗಳನ್ನು ನಿಯಮಿತವಾಗಿ ಪರಿಶೀಲಿಸಿ ಮತ್ತು ಸೂಕ್ತ ಸ್ಥಳೀಯ ವಾಹಕ ನಿಯಂತ್ರಣ ಕ್ರಮಗಳನ್ನು ಅನುಸರಿಸಿ."
+    }
+  },
+
+  "Tomato___healthy": {
+    "en": {
+      "about": "No visible disease symptoms were detected for the healthy tomato class.",
+      "treatment": "No disease treatment is indicated. Continue regular crop monitoring.",
+      "prevention": "Use healthy seedlings and seed, maintain field sanitation, provide adequate spacing and nutrition, and regularly inspect plants for early symptoms."
+    },
+    "kn": {
+      "about": "ಆರೋಗ್ಯಕರ ಟೊಮೇಟೊ ಸಸ್ಯಗಳಲ್ಲಿ ಗಮನಾರ್ಹ ರೋಗ ಲಕ್ಷಣಗಳು ಕಂಡುಬಂದಿಲ್ಲ.",
+      "treatment": "ರೋಗದ ಚಿಕಿತ್ಸೆಯ ಅಗತ್ಯವಿಲ್ಲ. ಬೆಳೆಯನ್ನು ನಿಯಮಿತವಾಗಿ ಪರಿಶೀಲಿಸುತ್ತಿರಿ.",
+      "prevention": "ಆರೋಗ್ಯಕರ ಸಸಿ ಮತ್ತು ಬೀಜ ಬಳಸಿ, ಹೊಲದ ಸ್ವಚ್ಛತೆ ಕಾಪಾಡಿ, ಸೂಕ್ತ ಸಸ್ಯ ಅಂತರ ಮತ್ತು ಪೋಷಕಾಂಶ ಒದಗಿಸಿ ಮತ್ತು ಆರಂಭಿಕ ರೋಗ ಲಕ್ಷಣಗಳಿಗಾಗಿ ಸಸ್ಯಗಳನ್ನು ನಿಯಮಿತವಾಗಿ ಪರಿಶೀಲಿಸಿ."
+    }
+  }
+}
