@@ -1,0 +1,109 @@
+{
+  "dataset": "PlantDoc",
+  "evaluation_type": "oracle_crop_constrained_evaluation",
+  "description": "The exact same 85 images used in plantdoc_predictions.csv were evaluated. Predictions were restricted to the known ground-truth crop classes. This is a diagnostic experiment and not an automatic crop classifier.",
+  "original_images": 85,
+  "images_selected": 85,
+  "images_evaluated": 85,
+  "failed_images": 0,
+  "accuracy": 0.4353,
+  "macro_precision": 0.6034,
+  "macro_recall": 0.4194,
+  "macro_f1": 0.3949,
+  "mean_prediction_confidence": 0.6999,
+  "mean_correct_prediction_confidence": 0.7134,
+  "mean_wrong_prediction_confidence": 0.6896,
+  "per_crop": {
+    "Corn": {
+      "images": 25,
+      "accuracy": 0.4
+    },
+    "Potato": {
+      "images": 15,
+      "accuracy": 0.5333
+    },
+    "Tomato": {
+      "images": 45,
+      "accuracy": 0.4222
+    }
+  },
+  "classification_report": {
+    "Corn___Cercospora_leaf_spot Gray_leaf_spot": {
+      "precision": 0.16666666666666666,
+      "recall": 0.3333333333333333,
+      "f1-score": 0.2222222222222222,
+      "support": 3.0
+    },
+    "Corn___Common_rust": {
+      "precision": 0.6666666666666666,
+      "recall": 0.2,
+      "f1-score": 0.3076923076923077,
+      "support": 10.0
+    },
+    "Corn___Northern_Leaf_Blight": {
+      "precision": 0.4375,
+      "recall": 0.5833333333333334,
+      "f1-score": 0.5,
+      "support": 12.0
+    },
+    "Potato___Early_blight": {
+      "precision": 0.5714285714285714,
+      "recall": 0.5,
+      "f1-score": 0.5333333333333333,
+      "support": 8.0
+    },
+    "Potato___Late_blight": {
+      "precision": 0.5,
+      "recall": 0.5714285714285714,
+      "f1-score": 0.5333333333333333,
+      "support": 7.0
+    },
+    "Tomato___Bacterial_spot": {
+      "precision": 1.0,
+      "recall": 0.1111111111111111,
+      "f1-score": 0.2,
+      "support": 9.0
+    },
+    "Tomato___Early_blight": {
+      "precision": 0.2631578947368421,
+      "recall": 0.5555555555555556,
+      "f1-score": 0.35714285714285715,
+      "support": 9.0
+    },
+    "Tomato___Late_blight": {
+      "precision": 0.42857142857142855,
+      "recall": 0.9,
+      "f1-score": 0.5806451612903226,
+      "support": 10.0
+    },
+    "Tomato___Septoria_leaf_spot": {
+      "precision": 1.0,
+      "recall": 0.2727272727272727,
+      "f1-score": 0.42857142857142855,
+      "support": 11.0
+    },
+    "Tomato___Tomato_Yellow_Leaf_Curl_Virus": {
+      "precision": 1.0,
+      "recall": 0.16666666666666666,
+      "f1-score": 0.2857142857142857,
+      "support": 6.0
+    },
+    "accuracy": 0.43529411764705883,
+    "macro avg": {
+      "precision": 0.6033991228070175,
+      "recall": 0.4194155844155845,
+      "f1-score": 0.394865492930009,
+      "support": 85.0
+    },
+    "weighted avg": {
+      "precision": 0.625202712664013,
+      "recall": 0.43529411764705883,
+      "f1-score": 0.4116811588158837,
+      "support": 85.0
+    }
+  },
+  "failed_image_details": [],
+  "files": {
+    "predictions_csv": "reports\\plantdoc_crop_constrained_predictions.csv"
+  }
+}

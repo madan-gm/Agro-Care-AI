@@ -1,0 +1,108 @@
+{
+  "dataset": "PlantDoc",
+  "evaluation_type": "real_world_field_style_evaluation",
+  "total_images": 85,
+  "accuracy": 0.3647,
+  "macro_precision": 0.4843,
+  "macro_recall": 0.3066,
+  "macro_f1": 0.2812,
+  "mean_prediction_confidence": 0.8258,
+  "mean_correct_prediction_confidence": 0.8475,
+  "mean_wrong_prediction_confidence": 0.8133,
+  "classes_evaluated": [
+    "Corn___Cercospora_leaf_spot Gray_leaf_spot",
+    "Corn___Common_rust",
+    "Corn___Northern_Leaf_Blight",
+    "Potato___Early_blight",
+    "Potato___Late_blight",
+    "Tomato___Bacterial_spot",
+    "Tomato___Early_blight",
+    "Tomato___Late_blight",
+    "Tomato___Septoria_leaf_spot",
+    "Tomato___Tomato_Yellow_Leaf_Curl_Virus"
+  ],
+  "classification_report": {
+    "Corn___Cercospora_leaf_spot Gray_leaf_spot": {
+      "precision": 0.16666666666666666,
+      "recall": 0.3333333333333333,
+      "f1-score": 0.2222222222222222,
+      "support": 3.0
+    },
+    "Corn___Common_rust": {
+      "precision": 0.4,
+      "recall": 0.2,
+      "f1-score": 0.26666666666666666,
+      "support": 10.0
+    },
+    "Corn___Northern_Leaf_Blight": {
+      "precision": 0.4375,
+      "recall": 0.5833333333333334,
+      "f1-score": 0.5,
+      "support": 12.0
+    },
+    "Potato___Early_blight": {
+      "precision": 1.0,
+      "recall": 0.25,
+      "f1-score": 0.4,
+      "support": 8.0
+    },
+    "Potato___Late_blight": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1-score": 0.0,
+      "support": 7.0
+    },
+    "Tomato___Bacterial_spot": {
+      "precision": 1.0,
+      "recall": 0.1111111111111111,
+      "f1-score": 0.2,
+      "support": 9.0
+    },
+    "Tomato___Early_blight": {
+      "precision": 0.2631578947368421,
+      "recall": 0.5555555555555556,
+      "f1-score": 0.35714285714285715,
+      "support": 9.0
+    },
+    "Tomato___Late_blight": {
+      "precision": 0.3103448275862069,
+      "recall": 0.9,
+      "f1-score": 0.46153846153846156,
+      "support": 10.0
+    },
+    "Tomato___Septoria_leaf_spot": {
+      "precision": 0.75,
+      "recall": 0.2727272727272727,
+      "f1-score": 0.4,
+      "support": 11.0
+    },
+    "Tomato___Tomato_Yellow_Leaf_Curl_Virus": {
+      "precision": 1.0,
+      "recall": 0.16666666666666666,
+      "f1-score": 0.2857142857142857,
+      "support": 6.0
+    },
+    "micro avg": {
+      "precision": 0.36904761904761907,
+      "recall": 0.36470588235294116,
+      "f1-score": 0.3668639053254438,
+      "support": 85.0
+    },
+    "macro avg": {
+      "precision": 0.5327669388989715,
+      "recall": 0.3372727272727273,
+      "f1-score": 0.3093284493284493,
+      "support": 85.0
+    },
+    "weighted avg": {
+      "precision": 0.5467278744528664,
+      "recall": 0.36470588235294116,
+      "f1-score": 0.33267399267399267,
+      "support": 85.0
+    }
+  },
+  "files": {
+    "predictions_csv": "reports\\plantdoc_predictions.csv",
+    "confusion_matrix": "reports\\plantdoc_confusion_matrix.png"
+  }
+}
