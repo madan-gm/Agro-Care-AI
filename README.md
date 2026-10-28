@@ -197,7 +197,10 @@ RNS Institute of Technology (RNSIT), Bengaluru
 - **GitHub:** [madan-gm](https://github.com/madan-gm)
 - **Mobile Repository:** [Agro Care AI Mobile](https://github.com/madan-gm/Agro-Care-AI-Mobile)
 
----
+--- 
+## 📑 Structural Designer
+**Kusuma S R**
+- **linkdin:** [Kusuma SR](https://www.linkedin.com/in/kusuma-sr-8b7614335/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BK649gVo6RKK4gml7aflUaw%3D%3D)
 
 ## 📄 License
 
