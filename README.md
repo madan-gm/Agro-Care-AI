@@ -124,3 +124,88 @@ Run the application with:
 
 ```bash
 streamlit run app/app.py
+
+### Run the Web Application
+
+#### Prerequisites
+
+- Python 3.10 or a compatible version
+- Git
+- pip
+
+#### Setup
+
+Clone the repository:
+
+```bash
+git clone https://github.com/madan-gm/Agro-Care-AI.git
+cd Agro-Care-AI
+```
+
+Install the required Python dependencies using the project's requirements file, if available:
+
+```bash
+pip install -r requirements.txt
+```
+
+Run the Streamlit application:
+
+```bash
+streamlit run app/app.py
+```
+
+Open the local URL shown in the terminal.
+
+> Note: The exact Python version and dependency installation steps should match the project's configuration.
+
+---
+
+## 📱 Mobile Application
+
+Agro Care AI also includes a Flutter-based Android application with on-device crop disease detection, voice advisory, scan history, weather information, and an AI Farming Assistant.
+
+- **Source code:** [Agro Care AI Mobile](https://github.com/madan-gm/Agro-Care-AI-Mobile)
+- **Android APK:** [Download the application](https://drive.google.com/file/d/1jpXEmbG6UVM3VkoHHNWDCAt-jl1QiDc5/view?usp=sharing)
+
+---
+
+## ⚠️ Limitations
+
+- Model predictions depend on input image quality and the training data.
+- Reported test metrics are based on the PlantVillage test split and may not represent real-world field performance.
+- Grad-CAM visualizations provide model explanations, not proof that a predicted disease is correct.
+- Advisory content is general guidance and should be verified with qualified agricultural professionals.
+- Weather and AI assistant features depend on their configured services and internet connectivity.
+
+---
+
+## 🔮 Future Improvements
+
+- Evaluate the model on more diverse field images.
+- Improve disease classification reliability under natural lighting and background conditions.
+- Expand supported crops and disease classes.
+- Improve personalized advisory and regional language support.
+- Add downloadable scan reports and additional farming resources.
+
+---
+
+## 👨‍💻 Developer
+
+**Madan G M**  
+RNS Institute of Technology (RNSIT), Bengaluru
+
+- **GitHub:** [madan-gm](https://github.com/madan-gm)
+- **Mobile Repository:** [Agro Care AI Mobile](https://github.com/madan-gm/Agro-Care-AI-Mobile)
+
+---
+
+## 📄 License
+
+No license has been specified yet.
+
+## 🚀 Demo and Project Links
+
+- **🎥 Demo Video:** [Watch Agro Care AI Demo](https://drive.google.com/file/d/14tPjAdihy7OFb9ot_jXO_WgMuBF_2K4j/view?usp=sharing)
+- **📱 Android APK:** [Download Agro Care AI](https://drive.google.com/file/d/1jpXEmbG6UVM3VkoHHNWDCAt-jl1QiDc5/view?usp=sharing)
+- **💻 Web Application Source:** This repository
+- **📱 Mobile Application Source:** [Agro Care AI Mobile](https://github.com/madan-gm/Agro-Care-AI-Mobile)
